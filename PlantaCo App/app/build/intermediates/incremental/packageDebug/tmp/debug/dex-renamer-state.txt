@@ -1,0 +1,4 @@
+#Tue Nov 05 15:23:23 EET 2019
+base.0=/Users/nehad/AndroidStudioProjects/tst/app/build/intermediates/dex/debug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
